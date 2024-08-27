@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Baitapvenhabuoi1/1.0.0": {
+        "runtime": {
+          "Baitapvenhabuoi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baitapvenhabuoi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

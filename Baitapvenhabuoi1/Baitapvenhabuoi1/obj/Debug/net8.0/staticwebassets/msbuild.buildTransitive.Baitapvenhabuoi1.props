@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Baitapvenhabuoi1.props" />
+</Project>
