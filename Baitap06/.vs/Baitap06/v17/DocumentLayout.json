@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\wwwroot\\logo\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\wwwroot\\logo\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\wwwroot\\img\\controls.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\wwwroot\\img\\controls.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\wwwroot\\css\\linearicons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\wwwroot\\css\\linearicons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap06\\baitap06\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD84DE79-4E7E-432E-9976-8E9850EDC8B9}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:32:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "Baitap06\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:28:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:33:13.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favicon.png",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\logo\\favicon.png",
+              "RelativeDocumentMoniker": "Baitap06\\wwwroot\\logo\\favicon.png",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\logo\\favicon.png",
+              "RelativeToolTip": "Baitap06\\wwwroot\\logo\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-09T07:44:01.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:29:46.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:51:48.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "Baitap06\\wwwroot\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "Baitap06\\wwwroot\\css\\responsive.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-10T05:56:10.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "controls.png",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\img\\controls.png",
+              "RelativeDocumentMoniker": "Baitap06\\wwwroot\\img\\controls.png",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\img\\controls.png",
+              "RelativeToolTip": "Baitap06\\wwwroot\\img\\controls.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-10T05:57:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "linearicons.css",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\css\\linearicons.css",
+              "RelativeDocumentMoniker": "Baitap06\\wwwroot\\css\\linearicons.css",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\wwwroot\\css\\linearicons.css",
+              "RelativeToolTip": "Baitap06\\wwwroot\\css\\linearicons.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-10T05:56:08.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:50:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Baitap06\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:56:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Program.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\Program.cs",
+              "RelativeToolTip": "Baitap06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:19:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gitignore",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\gitignore",
+              "RelativeDocumentMoniker": "Baitap06\\gitignore",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap06\\Baitap06\\gitignore",
+              "RelativeToolTip": "Baitap06\\gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T06:14:35.525Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

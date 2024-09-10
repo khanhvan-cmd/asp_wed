@@ -1,0 +1,105 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.form-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+}
+.container {
+    text-align: center;
+}
+
+.image {
+    display: inline-block;
+    width: 200px; /* Điều chỉnh kích thước hình ảnh */
+
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    button[type="submit"]:hover {
+        background-color: #3e8e41;
+    }
+/* Thay đổi màu nền form */
+.signup-form {
+    background-color: #F0F8FF;
+}
+
+    /* Thay đổi màu chữ tiêu đề */
+    .signup-form h1 {
+        color: #fff;
+    }
+
+/* Tạo hiệu ứng bóng đổ cho nút đăng ký */
+.signup-button {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+/* Thay đổi màu nền form */
+.form-dang-ky {
+    background-color: #90EE90; /* Màu xanh lá nhạt */
+}
+
+    /* Thay đổi màu chữ tiêu đề */
+    .form-dang-ky h2 {
+        color: #fff; /* Giữ nguyên màu trắng */
+        font-size: 30px; /* Tăng kích thước font chữ */
+    }
+
+input[type="text"] {
+    border: 2px solid #008CBA; /* Màu xanh dương đậm, viền mỏng hơn */
+}
+
+.form-container {
+    border: none; /* Bỏ viền */
+    padding: 20px;
+    border-radius: 5px; /* Làm tròn góc nhẹ */
+}

@@ -1,0 +1,37 @@
+﻿﻿
+@{
+    ViewData["Title"] = "DangKy";
+}
+@{
+    Layout = "Layout2"; // Hoặc bất kỳ layout nào bạn muốn
+}
+
+
+@model TaiKhoanViewModel
+
+<div class="container">
+    <h2>Đăng ký</h2>
+
+    <form asp-action="DangKy" method="post">
+        <div>
+            <label asp-for="Username"></label>
+            <input asp-for="Username" />
+            <span asp-validation-for="Username"></span>
+        </div>
+        <div>
+            <label asp-for="Password"></label>
+            <input asp-for="Password" />
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div>
+            <label asp-for="FullName"></label>
+            <input asp-for="FullName" />
+            <span asp-validation-for="FullName"></span>
+        </div>
+        <div>
+            <label asp-for="Age"></label>
+            <input asp-for="Age" />
+            <span asp-validation-for="Age"></span>
+        </div>
+        <button type="submit">Đăng ký</button>
+    </form>
