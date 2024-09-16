@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xbNOSEHugT1om6y8Tsa7jN+nkL1yX88i67LAjl3ufws=",
+  "Hash": "dcuN2aVbPkvV5QuoTKnN6kdkY+gc3W56DcNknqum174=",
   "Source": "BaiTapKiemTra01",
   "BasePath": "_content/BaiTapKiemTra01",
   "Mode": "Default",
@@ -131,25 +131,6 @@
       "OriginalItemSpec": "wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 145600.png"
     },
     {
-      "Identity": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 145627.png",
-      "SourceId": "BaiTapKiemTra01",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\",
-      "BasePath": "_content/BaiTapKiemTra01",
-      "RelativePath": "AnhChupBaiDaChayRa/Screenshot 2024-09-10 145627.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 145627.png"
-    },
-    {
       "Identity": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 145641.png",
       "SourceId": "BaiTapKiemTra01",
       "SourceType": "Discovered",
@@ -186,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 145756.png"
+    },
+    {
+      "Identity": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 150242.png",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "AnhChupBaiDaChayRa/Screenshot 2024-09-10 150242.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AnhChupBaiDaChayRa\\Screenshot 2024-09-10 150242.png"
     },
     {
       "Identity": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\site.css",

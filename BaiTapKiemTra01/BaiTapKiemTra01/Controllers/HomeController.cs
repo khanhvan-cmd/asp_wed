@@ -15,6 +15,7 @@ namespace BaiTapKiemTra01.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
