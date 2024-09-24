@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitapvenha03\\baitapvenha03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|solutionrelative:baitapvenha03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitapvenha03\\baitapvenha03\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|solutionrelative:baitapvenha03\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitapvenha03\\baitapvenha03\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|solutionrelative:baitapvenha03\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitapvenha03\\baitapvenha03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34678628-A6E7-47CA-9014-E3041241065A}|BaiTapVeNha03\\BaiTapVeNha03.csproj|solutionrelative:baitapvenha03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "BaiTapVeNha03\\Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\Models\\TheLoai.cs",
+              "RelativeToolTip": "BaiTapVeNha03\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:16:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVeNha03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVeNha03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:16:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiTapVeNha03\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\appsettings.json",
+              "RelativeToolTip": "BaiTapVeNha03\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T06:11:14.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "BaiTapVeNha03\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\BaiTapVeNha03\\BaiTapVeNha03\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "BaiTapVeNha03\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:08:25.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

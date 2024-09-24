@@ -90,5 +90,41 @@ namespace Baitap07.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+
+            var theloai = _db.TheLoai.Find(id);
+            return View(theloai);
+        }
+        [HttpGet]
+        public IActionResult Search(string searchString)
+        {
+            // Nếu có từ khóa tìm kiếm
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                // Sử dụng LINQ để tìm các thể loại có tên chứa từ khóa
+                var theloai = _db.TheLoai
+                    .Where(tl => tl.Name.Contains(searchString))
+                    .ToList();
+                ViewBag.searchstring = searchString;
+                // Truyền danh sách thể loại tìm được vào ViewBag
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                // Nếu không có từ khóa, lấy tất cả các thể loại
+                var theloai = _db.TheLoai.ToList();
+                ViewBag.TheLoai = theloai;
+            }
+
+          
+            return View("Index");
+        }
+
     }
 }

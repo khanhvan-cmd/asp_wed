@@ -1,0 +1,46 @@
+﻿@model BaiKiemTra02.Models.LopHoc
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi tiết lớp học</h1>
+
+<div>
+    <h4>Lớp học</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TenLopHoc)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TenLopHoc)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NamNhapHoc)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NamNhapHoc)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NamRaTruong)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NamRaTruong)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SoLuongSinhVien)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SoLuongSinhVien)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Sửa</a> |
+    <a asp-action="Index" class="btn btn-secondary">Trở lại danh sách</a>
+</div>

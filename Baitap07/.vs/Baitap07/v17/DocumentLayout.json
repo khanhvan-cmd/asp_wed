@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|c:\\users\\khanh van\\desktop\\lap trinh wed\\asp_wed\\baitap07\\baitap07\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06FD6702-90B5-4B69-A832-5F8038B7888B}|Baitap07\\Baitap07.csproj|solutionrelative:baitap07\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,8 +65,126 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\appsettings.json",
+              "RelativeDocumentMoniker": "Baitap07\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\appsettings.json",
+              "RelativeToolTip": "Baitap07\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T07:28:34.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap07\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "Baitap07\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:28:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Baitap07\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Baitap07\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:28:45.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Baitap07\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Baitap07\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:28:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "Baitap07\\Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Models\\TheLoai.cs",
+              "RelativeToolTip": "Baitap07\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:28:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Baitap07\\Views\\TheLoai\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeToolTip": "Baitap07\\Views\\TheLoai\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:27:43.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Create.cshtml",
+              "RelativeDocumentMoniker": "Baitap07\\Views\\TheLoai\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Create.cshtml",
+              "RelativeToolTip": "Baitap07\\Views\\TheLoai\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:27:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Baitap07\\Views\\TheLoai\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeToolTip": "Baitap07\\Views\\TheLoai\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:27:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Baitap07\\Views\\TheLoai\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Views\\TheLoai\\Detail.cshtml",
+              "RelativeToolTip": "Baitap07\\Views\\TheLoai\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:27:07.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Baitap07\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Khanh Van\\Desktop\\lap trinh wed\\asp_wed\\Baitap07\\Baitap07\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Baitap07\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:26:18.193Z"
             }
           ]
         }

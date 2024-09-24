@@ -1,0 +1,54 @@
+﻿@model IEnumerable<BaiKiemTra02.Models.LopHoc>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sách lớp học</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLopHoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NamNhapHoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NamRaTruong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuongSinhVien)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenLopHoc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NamNhapHoc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NamRaTruong)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoLuongSinhVien)
+                </td>
+                <td>
+                    <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Xóa</a> |
+                    <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a class="btn btn-primary" asp-action="Create">Thêm lớp học</a>
+</div>
