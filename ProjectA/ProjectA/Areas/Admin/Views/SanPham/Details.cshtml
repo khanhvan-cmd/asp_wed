@@ -1,7 +1,18 @@
-﻿@model TheLoai
+﻿@model SanPham
 
 <div>
-	ID: <b>@Model.Id</b> <br/>
-	Tên thể loại: <b>@Model.Name</b> <br />
-	Ngày tạo: <b>@String.Format("{00:dd/MM/yyyy}", Model.DateCreated)</b><br />
+    <a class="product-gallery-item" href="#" data-image="@Model.ImageUrl" data-zoom-image="@Model.ImageUrl">
+        <img src="@Model.ImageUrl" alt="product back">
+    </a>
+</div>
+<div class="col-md-6">
+    <div class="product-details">
+        <h1 class="product-title">@Model.Name</h1><div class="ratings-container">
+            <div class="ratings"></div>
+            <div class="ratings-val" style="width: 80%;"></div>
+            <a class="ratings-text" href="#product-review-link" id="review-link">(2 Reviews)</a>
+        </div>
+        <div class="product-price">@String.Format("{0:0,0}", Model.price) VND</div>
+    </div>
+</div>
 </div>

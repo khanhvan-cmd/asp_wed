@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.DotNet.Scaffolding.Shared.Messaging;
 using Microsoft.EntityFrameworkCore;
 using ProjectA.Data;
 using ProjectA.Models;
@@ -62,9 +63,11 @@ namespace ProjectA.Controllers
             }
             return View();
         }
+
         [HttpPost]
         public IActionResult Delete(int id)
         {
+
             var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
 
             if (sanpham == null)
@@ -74,7 +77,7 @@ namespace ProjectA.Controllers
 
             _db.SanPham.Remove(sanpham);
             _db.SaveChanges();
-            return RedirectToAction("Index");
-        }
+            return Json(new { success = true });
+        } 
     }
 }

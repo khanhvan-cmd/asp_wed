@@ -1,0 +1,29 @@
+﻿@model IEnumerable<SanPham>
+<div class="container">
+    <h1 class="text-align-center">Danh sách sản phẩm</h1>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 col-sm-6">
+                <div class="card" style="width: 100%; margin-bottom: 25px;">
+                    <a asp-action="Details" asp-route-id="@item.Id">
+                        <img src="@item.ImageUrl" alt="Product image" class="card-img-top" style="height: 200px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <h6 class="card-title">@item.price</h6>
+                        <p class="card-text">@item.Description</p>
+                        <div class="row">
+                            <div class="col-6">
+                                <a href="#" class="btn btn-primary">Thêm vào &#10084</a>
+                            </div>
+                            <div class="col-6">
+                                <a href="#" class="btn btn-danger">Mua hàng</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
